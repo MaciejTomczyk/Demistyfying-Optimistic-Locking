@@ -63,7 +63,3 @@ The key is that the WHERE clause checks the object version. Since the version no
 Optimistic locking is an effective way to manage concurrent access to data in web applications. By maintaining a simple version counter, you can prevent conflicts and ensure data integrity without complex locking mechanisms.
 
 Even if your ORM handles this automatically, understanding how it works at the database level helps you diagnose issues and optimize performance.
-
-I’ve also shared a small project that demonstrates optimistic locking in action. Check it out here:
-
-(Insert link to your repository)
